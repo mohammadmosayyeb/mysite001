@@ -1,7 +1,10 @@
+
 export default function Home() {
+
   return (
     <main >
-      Ready
+      thes <br/>
+      {process.env.USERNAME_ME}
     </main>
   )
 }
