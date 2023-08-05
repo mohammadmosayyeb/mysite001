@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import Personallogo from "../Svglogos/Personallogo";
+import { Personallogo } from "../Svglogos/svglogos";
 
 
 export default function Navbar() {

@@ -1,14 +1,9 @@
 import Image from "next/image";
 
 
-import Dribbble from "./Components/Svglogos/dribbble";
-import Instagram from "./Components/Svglogos/instagarm";
-import Github from "./Components/Svglogos/github";
-import Pintrest from "./Components/Svglogos/pintrest";
-import Twitter from "./Components/Svglogos/Twitter";
-import HeadingDef1 from "./Components/heading/page";
-import HeadingDef2 from "./Components/heading/page copy";
-import HeadingDef3 from "./Components/heading/page copy 2";
+import { HeadingDef1, HeadingDef2, HeadingDef3 } from "./Components/heading/Heading";
+
+import { Dribbble, Github, Instagram, Pintrest, Twitter } from "./Components/Svglogos/svglogos";
 
 
 export default function Home() {
@@ -29,6 +24,7 @@ export default function Home() {
         <Pintrest width="19" />
         <Twitter width="26" />
         {/* < width="30" /> */}
+
       </div>
 
       <Image width={853} height={2774} className="imageuploaded" alt="nothing" src={"https://image.mosayyebnezhad.ir/mea.webp"} />
