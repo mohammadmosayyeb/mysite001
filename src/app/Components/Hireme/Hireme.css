@@ -1,0 +1,78 @@
+.sectionofHireme {
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 120px;
+    height: auto;
+}
+
+.bottomofonviet {
+    width: 100%;
+    height: 96px;
+
+    float: left;
+}
+
+.myselfimage {
+    width: 50%;
+    height: 400px;
+    float: left;
+    display: flex;
+    align-items: flex-start;
+    overflow: hidden;
+    justify-content: center;
+}
+
+@import url("../../variable.css");
+
+* {
+    margin: 0;
+    font-family: var(--ft);
+    color: var(--color2);
+}
+
+.myimageformeeaouefae {
+    width: 230px;
+    height: auto;
+}
+
+.Textandabilities {
+    width: 50%;
+    float: left;
+    height: 400px;
+    /* background: blueviolet; */
+}
+
+.seconeid6416894684684 {
+    width: 80%;
+    margin-left: 10%;
+    height: 60%;
+
+}
+
+.sectwoid6416894684684 {
+    width: 80%;
+    margin-left: 10%;
+    height: 40%;
+    /* background: gold; */
+}
+
+.seconeid6416894684684 h2 {
+    font-size: 1.5em;
+    float: left;
+    width: 100% !important;
+    margin: 0;
+}
+
+.bottomofonviet a {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.bottomofonviet button {
+    width: 90%;
+    cursor: pointer;
+    margin: 0;
+
+}

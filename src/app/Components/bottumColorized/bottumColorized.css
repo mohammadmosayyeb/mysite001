@@ -1,0 +1,53 @@
+@import url("../../variable.css");
+
+.buttonID124886846846 {
+    width: auto;
+    background: var(--colorbg1);
+    border: none;
+    border-radius: 7px;
+    font-size: 1.6em;
+    margin-right: 12px;
+    margin-top: 12px;
+    font-family: f4;
+    padding: 5px 15px 0px 15px;
+    direction: rtl;
+    float: left;
+    color: var(--color2);
+    letter-spacing: 0px;
+}
+
+.btmcolor0 {
+    box-shadow: #e26b3383 0px 2px 4px 0px, #f07f1580 0px 2px 16px 0px;
+}
+
+.btmcolor1 {
+    box-shadow: #28dce983 0px 2px 4px 0px, #1e9ee980 0px 2px 16px 0px;
+}
+
+.btmcolor2 {
+    box-shadow: #17e64483 0px 2px 4px 0px, #42e92180 0px 2px 16px 0px;
+}
+
+.btmcolor3 {
+    box-shadow: #f1447883 0px 2px 4px 0px, #f586e280 0px 2px 16px 0px;
+}
+
+.btmcolor4 {
+    box-shadow: #e363e783 0px 2px 4px 0px, #ec1fd180 0px 2px 16px 0px;
+}
+
+.btmcolor5 {
+    box-shadow: #e9282883 0px 2px 4px 0px, #e9282880 0px 2px 16px 0px;
+}
+
+.buttonID124886846846 svg {
+    margin-right: 10px;
+    transition: .15s;
+    width: 15px;
+}
+
+.buttonID124886846846:hover svg {
+    margin-right: 20px;
+    width: 18px;
+
+}

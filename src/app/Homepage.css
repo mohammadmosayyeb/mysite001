@@ -1,0 +1,87 @@
+.Defheichone {
+    margin-top: 32px !important;
+}
+
+.Defheichtwo {
+    margin-top: 32px !important;
+    margin-bottom: 32px !important;
+}
+
+.Defheichtre {
+    width: 50vw !important;
+    margin-left: 25%;
+    margin-right: 25%;
+    height: 100px !important;
+}
+
+.logoslist {
+    width: 20%;
+    margin-left: 40%;
+    display: flex;
+    justify-content: space-around;
+
+
+}
+
+.imageuploaded {
+    width: 100px;
+    height: auto;
+}
+
+.sectwoid6416894684684 {
+    width: auto;
+    height: auto !important;
+    float: left;
+}
+
+.Textandabilities {
+    height: auto !important;
+    margin-bottom: 24px;
+}
+
+.sectionofHireme {
+    height: auto;
+    float: left;
+}
+
+.Idlaehfaorf3r {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+}
+
+@media only screen and (max-width: 900px) {
+    .sectionofHireme {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .Idlaehfaorf3r {
+        display: block;
+    }
+
+    .Textandabilities {
+        width: 100%;
+    }
+
+    .myselfimage {
+        width: 100%;
+
+    }
+
+    .logoslist {
+        width: 80%;
+        margin-top: 48px !important;
+        margin-left: 10%;
+        float: left;
+
+    }
+
+    .Defheichtre {
+        height: auto !important;
+        width: 80% !important;
+        margin-left: 10%;
+        padding: 0;
+    }
+
+}

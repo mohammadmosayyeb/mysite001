@@ -1,11 +1,29 @@
-:root {
-    --ft: "Yekan Bakh FaNum";
-    --ftb: "Yekan Bakh FaNum Fat";
+@font-face {
+    font-family: "f1";
+    src: url("./../../public/font/Yekan-Bakh-FaNum-04-Regular.woff");
+}
 
+@font-face {
+    font-family: "f2";
+    src: url("./../../public/font/Yekan-Bakh-FaNum-06-Bold.woff");
+}
+
+@font-face {
+    font-family: "f3";
+    src: url("./../../public/font/Yekan-Bakh-FaNum-07-Heavy.woff");
+}
+
+@font-face {
+    font-family: "f4";
+    src: url("./../../public/font/Yekan-Bakh-FaNum-08-Fat.woff");
+}
+
+:root {
 
 
 
     --color1: #D8D1F6;
     --color2: #AEAED4;
     --color3: #7A7AB5;
+    --colorbg1: #575688;
 }

@@ -1,0 +1,35 @@
+@import url(../../variable.css);
+
+* {
+    font-family: f2 !important;
+}
+
+.eaxhafsfi {
+    width: 80% !important;
+    direction: rtl;
+    display: flex !important;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    float: left;
+    margin-left: 10% !important;
+}
+
+.aouscikabfef {
+    margin-top: 32px !important;
+    margin-bottom: 32px !important;
+    margin-left: 5px;
+    margin-right: 5px;
+    overflow: hidden;
+    color: var(--color2) !important;
+    background: rgba(0, 0, 0, 0.3) !important;
+}
+
+@media only screen and (max-width: 800px) {
+    .eaxhafsfi {
+        direction: rtl;
+        display: flex !important;
+        justify-content: center !important;
+        flex-wrap: wrap;
+
+    }
+}

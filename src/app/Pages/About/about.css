@@ -1,0 +1,147 @@
+@import url("../../variable.css");
+
+* {
+    margin: 0;
+}
+
+.radif {
+    width: 80%;
+    height: auto;
+    margin-left: 10%;
+    float: left;
+    direction: rtl;
+    margin-top: 50px;
+}
+
+.radif .soton {
+    width: 50%;
+    height: 100%;
+    float: left;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    color: var(--color2);
+}
+
+
+
+
+.sizethaasduhiu {
+    font-size: 3em;
+}
+
+.sasdaef::before {
+    content: "9 10 1383";
+    font-size: 5em;
+}
+
+.Defheichone {
+    margin-top: 120px;
+}
+
+
+
+.Defheichtre {
+    margin: 0;
+    margin-left: 10%;
+    width: 80% !important;
+}
+
+.naoifhioaefui3qrh80 {
+    width: 50%;
+    height: 100% !important;
+    float: left;
+
+    align-items: center;
+    color: var(--color2);
+}
+
+.leaiefiauh {
+
+    font-family: f4;
+}
+
+
+.rightkabasbh {
+
+    font-family: f2;
+
+}
+
+.naoifhioaefui3qrh80 .buttonID124886846846 {
+    width: 80% !important;
+    margin-left: 10%;
+}
+
+@media only screen and (min-width: 800px) {
+    .leaiefiauh {
+        justify-content: flex-end !important;
+        font-family: f4;
+        direction: rtl;
+        text-align: right;
+        font-size: 8em;
+    }
+
+
+    .rightkabasbh {
+        justify-content: flex-start !important;
+        font-family: f2;
+        font-size: 2em;
+    }
+
+    .sizethaasduhiu {
+        font-size: 2.8vw;
+    }
+
+    
+}
+
+@media only screen and (max-width: 800px) {
+    .naoifhioaefui3qrh80 {
+        width: 100%;
+        margin-top: 48px;
+        margin-bottom: 120px;
+    }
+
+    .radif .soton {
+        width: 100%;
+    }
+
+    .leaiefiauh {
+        font-size: 5em;
+        background-color: rgba(0, 0, 0, 0.144);
+    }
+
+    .rightkabasbh {
+        background-color: rgba(255, 255, 255, 0.26);
+        color: black !important;
+    }
+
+    .sizethaasduhiu {
+        font-size: 4.8vw;
+    }
+
+
+
+
+}
+
+.sasdaef {
+    font-size: 1em;
+}
+
+@media only screen and (max-width: 368px) {
+    .leaiefiauh {
+        font-size: 20vw;
+    }
+
+    .sasdaef {
+        font-size: 3vw;
+    }
+
+    .sizethaasduhiu {
+        font-size: 4.8vw;
+    }
+
+}

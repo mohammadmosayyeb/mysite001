@@ -1,0 +1,38 @@
+@import url(../../variable.css);
+
+* {
+    font-family: f2 !important;
+}
+
+.secinservices {
+    width: 90%;
+    margin-left: 5%;
+    float: left;
+    display: flex;
+    height: auto;
+    margin-bottom: 120px;
+
+}
+
+.secinservices div {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    float: left;
+    flex-wrap: wrap;
+    direction: rtl;
+   align-items: center;
+}
+
+.secinservices div h1 {
+    float: left;
+    height: auto !important;
+}
+
+.secinservices div h3 {
+    float: left;
+    height: auto !important;
+}
+.secinservices div iframe{
+    border: none;
+}
