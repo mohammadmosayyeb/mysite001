@@ -16,9 +16,7 @@ export default async function Home() {
     <main>
       <HeadingDef1 txt="محمد حسن مسیب نژاد" />
       <HeadingDef2 txt="طراح وبسایت و گرافیست" />
-      <HeadingDef3 txt="لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ
- و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه
-روزنامه و مجله در ستون و سطرآنچنان که لازم است، و" />
+      <HeadingDef3 txt="Full Stack developer in Back-Side By .Net and in Front-Side By Next.js And React.js , I enjoy the Path Follow me" />
 
 
       <div className="logoslist">

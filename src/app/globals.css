@@ -94,3 +94,9 @@ main {
 
 
 }
+
+.divition{
+    width: 48px;
+    height: 48px;
+    background: red;
+}

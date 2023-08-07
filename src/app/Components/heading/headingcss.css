@@ -7,7 +7,7 @@
     width: 100%;
     text-align: center;
     font-size: 5em;
-    
+    direction: rtl;
     float: left;
     height: auto;
 }
@@ -19,7 +19,7 @@
     width: 100%;
     text-align: center;
     font-size: 2.5em;
-    
+    direction: rtl;
     float: left;
     height: auto;
 }
@@ -31,5 +31,5 @@
     text-align: center;
     font-size: 1em;
     height: auto;
-  
+    direction: rtl;
 }

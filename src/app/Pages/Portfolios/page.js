@@ -44,6 +44,7 @@ export default async function About() {
                     </Card>
                 ))
             }
+           
         </main>
     )
 }

@@ -11,9 +11,12 @@ export const metadata = {
 }
 
 export default async function About() {
-    
+
     return (
         <main>
+            <div className="aeof4rhqw9f">
+                <HeadingDef1 txt="توانایی های من" />
+            </div>
             <div className="listofteck">
                 <Image width={120} height={120} src={"https://liara.ir/static/react-32287f1670344ec2a19f9195b51bd367.png"} />
                 <Image width={120} height={120} src={"https://liara.ir/static/nextjs-4efbcd540e5a587b81ac5e717999558c.png"} />
@@ -24,30 +27,33 @@ export default async function About() {
 
             <HeadingDef2 txt="برنامه نویسی" />
             <div className="countainer">
+                <BottumColorized txt="HTML & CSS" />
+                <BottumColorized txt="Sass" />
                 <BottumColorized txt="asp.net" />
-                <BottumColorized txt="C#" />
+                <BottumColorized txt="#C" />
+                <BottumColorized txt="Python" />
                 <BottumColorized txt="React" />
                 <BottumColorized txt="JavaScript" />
+                
+                <BottumColorized txt="MySql" />
+               
+
 
             </div>
             <hr className="safawfafef" />
-            <HeadingDef2 txt="برنامه نویسی" />
+            <HeadingDef2 txt="گرافیک" />
             <div className="countainer">
-                <BottumColorized txt="Text" />
-                <BottumColorized txt="Text" />
-                <BottumColorized txt="Text" />
-                <BottumColorized txt="Text" />
+                <BottumColorized txt="UI & UX" />
+                <BottumColorized txt="Illustrator" />
+                <BottumColorized txt="Photoshop" />
+                <BottumColorized txt="Premiere" />
+                <BottumColorized txt="AfterEffects" />
+                <BottumColorized txt="Photography" />
+                <BottumColorized txt="Videography" />
+                <BottumColorized txt="heliShot" />
 
             </div>
-            <hr className="safawfafef" />
-            <HeadingDef2 txt="برنامه نویسی" />
-            <div className="countainer">
-                <BottumColorized txt="Text" />
-                <BottumColorized txt="Text" />
-                <BottumColorized txt="Text" />
-                <BottumColorized txt="Text" />
 
-            </div>
         </main>
 
     )

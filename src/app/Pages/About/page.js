@@ -14,16 +14,14 @@ export const metadata = {
 
 
 export default async function About() {
- 
+
 
 
     return (
         <main>
             <HeadingDef1 txt="کیستم؟" />
             <HeadingDef2 txt="محمد حسن مسیب نژاد" />
-            <HeadingDef3 txt="لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ
- و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه
-روزنامه و مجله در ستون و سطرآنچنان که لازم است، و"/>
+            <HeadingDef3 txt="حدود پنج سال دارم در زمینه های مختلف و تکنولوژی های روز دنیا مطالعه می کنم از طراحی سایت گرفته تا فیلم برداری و تدوین " />
 
 
             <div className="radif">
@@ -47,9 +45,8 @@ export default async function About() {
 
             </div>
 
-
             <div className="radif">
-                <div className="soton leaiefiauh sizethaasduhiu">mohammadmosayyebnezhad@gmail.com</div>
+                <div className="soton leaiefiauh sizethaasduhiu">info@mail.mosayyebnezhad.ir</div>
                 <div className="soton rightkabasbh ">ایمیل</div>
 
             </div>
@@ -61,9 +58,9 @@ export default async function About() {
 
                 </div>
                 <div className="naoifhioaefui3qrh80 ">
-                    <HeadingDef3 txt="لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد، کتابهای زیادی در " />
-                    <Link href={"/Pages/Portfolios"}>
-                        <BottumColorized txt="رفتن به صفحه نمونه کارها" />
+                    <HeadingDef3 txt="حالا که با من آشنا شدید بهتر تا با توانایی های من نیز آشنا بشید" />
+                    <Link href={"/Pages/Abilities"}>
+                        <BottumColorized txt="رفتن به صفحه توانایی ها" />
                     </Link>
                 </div>
 

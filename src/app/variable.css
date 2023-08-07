@@ -10,11 +10,13 @@
 
 @font-face {
     font-family: "f3";
+    
     src: url("./../../public/font/Yekan-Bakh-FaNum-07-Heavy.woff");
 }
 
 @font-face {
     font-family: "f4";
+    font-weight: 900;
     src: url("./../../public/font/Yekan-Bakh-FaNum-08-Fat.woff");
 }
 

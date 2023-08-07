@@ -10,11 +10,13 @@
     background: rgba(255, 0, 0, 0.17);
     border-radius: 13px;
 }
-.listofteck img{
+
+.listofteck img {
     /* background: red; */
     width: 25%;
     height: auto;
 }
+
 .countainer {
     width: 60%;
     margin-left: 20%;
@@ -32,4 +34,20 @@
     background: red;
     border-radius: 5px;
     opacity: .15;
+}
+
+
+.aeof4rhqw9f h1 {
+    margin: 0;
+    margin-bottom: 48px;
+    margin-top: 32px;
+}
+
+@media only screen and (max-width: 800px) {
+    .countainer {
+        width: 90%;
+        margin-left: 5%;
+    }
+
+
 }

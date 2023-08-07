@@ -4,7 +4,7 @@ import { HeadingDef2 } from "../heading/Heading"
 import BottumColorized from "../bottumColorized/bottumColorized"
 import Link from "next/link"
 export default function Hireme() {
-    var textfided = "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد، کتابهای "
+    var textfided = "برای فروش بهتر باید در بستر های بهتر با بتانسیل بیشتر سرمایه گذاری کنید ، می خواهید بهترین تجربه خرید برای کاربران خودتون رو ایجاد کنید؟ یا می خواهید نمونه کار های خودتون رو در بستری با ظاهر مدرن قرار دهید ؟ و یا هر چیز دیگر ... پروژه خودتون رو به من بسپرید"
     return (
 
 
@@ -28,8 +28,8 @@ export default function Hireme() {
                 </div>
             </div>
             <div className="bottomofonviet">
-                <Link href={"/"}>
-                    <BottumColorized txt="درخواست استخدام" arrow={true} />
+                <Link href={"/Pages/About"}>
+                    <BottumColorized txt="صفحه درباره من" arrow={true} />
                 </Link>
             </div>
 

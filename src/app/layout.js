@@ -1,4 +1,3 @@
-
 import Navbar from './Components/Navbar/Navbarcomponent'
 import "./globals.css"
 export const metadata = {
@@ -19,19 +18,23 @@ export default function RootLayout({ children }) {
     'مدارک من'
   ]
 
+
+
+
   return (
 
     <html lang="en">
 
       <body>
-       
+
         <link rel="icon" href="./logo.svg" />
         <Navbar />
+
 
         {children}
 
 
       </body>
-    </html>
+    </html >
   )
 }
